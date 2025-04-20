@@ -38,20 +38,13 @@ Al9ani is a web service that allows you to create personalized QR code stickers 
 
 ## Technology Stack
 
-- Frontend: React.js
-- Backend: Node.js/Express
+- Frontend: Svelte
 - QR Generation: QR Code library
-- Hosting: [Specify if known]
-- Database: [Specify if applicable]
 
 ## Contributing
 
 Contributions welcome! Fork the repository and submit pull requests.
 
-## License
-
-[Specify license if open source]
-
 ## Contact
-
-For support: [Your contact email]
+Visit https://moroprod.xyz
+email : contact@moroprod.xyz
